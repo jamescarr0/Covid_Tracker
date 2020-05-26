@@ -1,0 +1,9 @@
+.idea/.gitignore
+.idea/Covid Tracker.iml
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/
+.idea/vcs.xml
+__pycache__/
